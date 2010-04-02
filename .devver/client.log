@@ -1,0 +1,107 @@
+I, [2009-09-04T15:29:02.499433 #27615]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:29:02.499685 #27615]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:29:02.616229 #27615]  INFO -- : Requesting project_id nil
+I, [2009-09-04T15:29:04.958982 #27615]  INFO -- : Syncing test_puzzle.rb modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:04.970352 #27615]  INFO -- : Syncing test_puzzle-v2.rb modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:04.991247 #27615]  INFO -- : Syncing test_permutations.rb modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.015907 #27615]  INFO -- : Syncing solution_spec.rb modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.051606 #27615]  INFO -- : Syncing rakefile modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.058280 #27615]  INFO -- : Syncing puzzle.rb modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.082772 #27615]  INFO -- : Syncing puzzle-v2.rb modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.101601 #27615]  INFO -- : Syncing puzzle-firstattempt.rb modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.115564 #27615]  INFO -- : Syncing permutations.rb modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.141180 #27615]  INFO -- : Syncing lib modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.144848 #27615]  INFO -- : Syncing lib/tasks modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.148263 #27615]  INFO -- : Syncing lib/tasks/devver.rake modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.152533 #27615]  INFO -- : Syncing dd-w-lambda.rb modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.175972 #27615]  INFO -- : Syncing dd-w-lambda modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.196325 #27615]  INFO -- : Syncing blogging_it.txt modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.221469 #27615]  INFO -- : Syncing .devver modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.226487 #27615]  INFO -- : Syncing .devver/hooks modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.230939 #27615]  INFO -- : Syncing .devver/hooks/prepare_database modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.252489 #27615]  INFO -- : Syncing .devver/hooks/install_dependencies modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.259328 #27615]  INFO -- : Syncing .devver/devver_opts.yml.bak modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:05.269528 #27615]  INFO -- : Syncing .devver/devver_opts.yml modified at Fri Sep 04 15:29:04 -0700 2009
+I, [2009-09-04T15:29:25.161056 #27615]  INFO -- : The connection to the server has been lost. Please try running your command again.
+If this problem persists, please report it at support@devver.net
+I, [2009-09-04T15:29:47.106755 #27617]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:29:47.106946 #27617]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:29:47.115670 #27617]  INFO -- : Requesting project_id 9870673344
+I, [2009-09-04T15:29:53.008243 #27617]  INFO -- : The connection to the server has been lost. Please try running your command again.
+If this problem persists, please report it at support@devver.net
+I, [2009-09-04T15:34:43.927217 #27656]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:34:43.927332 #27656]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:34:43.932052 #27656]  INFO -- : Requesting project_id 9870673344
+I, [2009-09-04T15:34:44.589184 #27656]  INFO -- : changed files: [[".devver/hooks/install_dependencies", Fri Sep 04 15:34:13 -0700 2009]]
+I, [2009-09-04T15:34:44.589532 #27656]  INFO -- : Syncing .devver/hooks/install_dependencies modified at Fri Sep 04 15:34:13 -0700 2009
+I, [2009-09-04T15:34:51.207562 #27656]  INFO -- : The connection to the server has been lost. Please try running your command again.
+If this problem persists, please report it at support@devver.net
+I, [2009-09-04T15:35:46.348330 #27660]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:35:46.348447 #27660]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:35:46.353060 #27660]  INFO -- : Requesting project_id 9870673344
+I, [2009-09-04T15:35:47.014764 #27660]  INFO -- : changed files: [[".devver/hooks/install_dependencies", Fri Sep 04 15:35:39 -0700 2009]]
+I, [2009-09-04T15:35:47.015050 #27660]  INFO -- : Syncing .devver/hooks/install_dependencies modified at Fri Sep 04 15:35:39 -0700 2009
+I, [2009-09-04T15:37:08.226185 #27660]  INFO -- : The connection to the server has been lost. Please try running your command again.
+If this problem persists, please report it at support@devver.net
+I, [2009-09-04T15:37:35.341041 #27663]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:37:35.341155 #27663]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:37:35.347002 #27663]  INFO -- : Requesting project_id 9870673344
+I, [2009-09-04T15:37:35.975478 #27663]  INFO -- : changed files: [["test_solutions.rb", Fri Sep 04 15:37:25 -0700 2009]]
+I, [2009-09-04T15:37:35.976317 #27663]  INFO -- : Syncing test_solutions.rb modified at Fri Sep 04 15:37:25 -0700 2009
+I, [2009-09-04T15:37:49.329840 #27663]  INFO -- : The connection to the server has been lost. Please try running your command again.
+If this problem persists, please report it at support@devver.net
+I, [2009-09-04T15:38:40.712889 #27668]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:38:40.712996 #27668]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:38:40.717208 #27668]  INFO -- : Requesting project_id 9870673344
+I, [2009-09-04T15:38:41.357118 #27668]  INFO -- : changed files: [["solution_spec.rb", Fri Sep 04 15:38:30 -0700 2009]]
+I, [2009-09-04T15:38:41.357390 #27668]  INFO -- : Syncing solution_spec.rb modified at Fri Sep 04 15:38:30 -0700 2009
+I, [2009-09-04T15:40:18.825445 #27683]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:40:18.825559 #27683]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:40:18.829998 #27683]  INFO -- : Requesting project_id 9870673344
+I, [2009-09-04T15:40:19.514052 #27683]  INFO -- : changed files: [["solution_spec.rb", Fri Sep 04 15:40:10 -0700 2009]]
+I, [2009-09-04T15:40:19.514554 #27683]  INFO -- : Syncing solution_spec.rb modified at Fri Sep 04 15:40:10 -0700 2009
+I, [2009-09-04T15:41:23.984105 #27683]  INFO -- : The connection to the server has been lost. Please try running your command again.
+If this problem persists, please report it at support@devver.net
+I, [2009-09-04T15:41:33.479250 #27686]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:41:33.479356 #27686]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:41:33.484745 #27686]  INFO -- : Requesting project_id 9870673344
+I, [2009-09-04T15:41:35.798055 #27686]  INFO -- : changed files: [["solution_spec.rb", Fri Sep 04 15:41:09 -0700 2009]]
+I, [2009-09-04T15:41:35.798320 #27686]  INFO -- : Syncing solution_spec.rb modified at Fri Sep 04 15:41:09 -0700 2009
+I, [2009-09-04T15:42:25.716684 #27686]  INFO -- : The connection to the server has been lost. Please try running your command again.
+If this problem persists, please report it at support@devver.net
+I, [2009-09-04T15:42:31.139313 #27689]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:42:31.139443 #27689]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T15:42:31.144112 #27689]  INFO -- : Requesting project_id 9870673344
+I, [2009-09-04T15:42:37.572090 #27689]  INFO -- : changed files: [["solution_spec.rb", Fri Sep 04 15:42:21 -0700 2009]]
+I, [2009-09-04T15:42:37.572353 #27689]  INFO -- : Syncing solution_spec.rb modified at Fri Sep 04 15:42:21 -0700 2009
+I, [2009-09-04T16:14:07.925222 #27762]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T16:14:07.925419 #27762]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T16:14:07.958315 #27762]  INFO -- : Requesting project_id 9870673344
+I, [2009-09-04T16:14:08.608541 #27762]  INFO -- : changed files: [["solution_spec.rb", Fri Sep 04 16:13:59 -0700 2009], ["blogging_it (Autosaved)", Fri Sep 04 16:13:29 -0700 2009]]
+I, [2009-09-04T16:14:08.608829 #27762]  INFO -- : Syncing solution_spec.rb modified at Fri Sep 04 16:13:59 -0700 2009
+I, [2009-09-04T16:14:08.611772 #27762]  INFO -- : Syncing blogging_it (Autosaved) modified at Fri Sep 04 16:13:29 -0700 2009
+I, [2009-09-04T17:57:55.968882 #28877]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T17:57:55.969095 #28877]  INFO -- : client force_sync true and force_reload false
+I, [2009-09-04T17:57:55.977061 #28877]  INFO -- : Requesting project_id 9870673344
+I, [2009-09-04T17:57:56.705564 #28877]  INFO -- : changed files: [["solution_spec.rb", Fri Sep 04 17:54:40 -0700 2009], ["rakefile", Fri Sep 04 17:55:58 -0700 2009], ["puzzle_spec.rb", Fri Sep 04 17:46:52 -0700 2009], ["puzzle.rb", Fri Sep 04 17:47:49 -0700 2009], ["permutations_spec.rb", Fri Sep 04 13:30:39 -0700 2009], ["lib/tasks/devver.rake", Fri Sep 04 17:57:42 -0700 2009], [".devver/hooks/prepare_database", Fri Sep 04 17:57:32 -0700 2009], [".devver/hooks/install_dependencies", Fri Sep 04 17:57:32 -0700 2009], [".devver/devver_opts.yml.bak", Fri Sep 04 17:57:32 -0700 2009], [".devver/devver_opts.yml", Fri Sep 04 17:57:32 -0700 2009]]
+I, [2009-09-04T17:57:56.705737 #28877]  INFO -- : deleted files: [["test_puzzle-v2.rb", "delete"], ["dd-w-lambda.rb", "delete"], ["dd-w-lambda", "delete"], ["blogging_it.txt", "delete"], ["test_solutions.rb", "delete"], ["blogging_it (Autosaved)", "delete"], ["puzzle-firstattempt.rb", "delete"], ["test_puzzle.rb", "delete"], ["test_permutations.rb", "delete"], ["puzzle-v2.rb", "delete"]]
+I, [2009-09-04T17:57:56.706140 #28877]  INFO -- : Syncing solution_spec.rb modified at Fri Sep 04 17:54:40 -0700 2009
+I, [2009-09-04T17:57:56.709120 #28877]  INFO -- : Syncing rakefile modified at Fri Sep 04 17:55:58 -0700 2009
+I, [2009-09-04T17:57:56.711928 #28877]  INFO -- : Syncing puzzle_spec.rb modified at Fri Sep 04 17:46:52 -0700 2009
+I, [2009-09-04T17:57:56.715396 #28877]  INFO -- : Syncing puzzle.rb modified at Fri Sep 04 17:47:49 -0700 2009
+I, [2009-09-04T17:57:56.718791 #28877]  INFO -- : Syncing permutations_spec.rb modified at Fri Sep 04 13:30:39 -0700 2009
+I, [2009-09-04T17:57:56.721601 #28877]  INFO -- : Syncing lib/tasks/devver.rake modified at Fri Sep 04 17:57:42 -0700 2009
+I, [2009-09-04T17:57:56.724736 #28877]  INFO -- : Syncing .devver/hooks/prepare_database modified at Fri Sep 04 17:57:32 -0700 2009
+I, [2009-09-04T17:57:56.727675 #28877]  INFO -- : Syncing .devver/hooks/install_dependencies modified at Fri Sep 04 17:57:32 -0700 2009
+I, [2009-09-04T17:57:56.730504 #28877]  INFO -- : Syncing .devver/devver_opts.yml.bak modified at Fri Sep 04 17:57:32 -0700 2009
+I, [2009-09-04T17:57:56.733704 #28877]  INFO -- : Syncing .devver/devver_opts.yml modified at Fri Sep 04 17:57:32 -0700 2009
+I, [2009-09-04T17:57:56.736491 #28877]  INFO -- : Syncing test_puzzle-v2.rb modified at delete
+I, [2009-09-04T17:57:56.736719 #28877]  INFO -- : Syncing dd-w-lambda.rb modified at delete
+I, [2009-09-04T17:57:56.736952 #28877]  INFO -- : Syncing dd-w-lambda modified at delete
+I, [2009-09-04T17:57:56.737163 #28877]  INFO -- : Syncing blogging_it.txt modified at delete
+I, [2009-09-04T17:57:56.737383 #28877]  INFO -- : Syncing test_solutions.rb modified at delete
+I, [2009-09-04T17:57:56.737593 #28877]  INFO -- : Syncing blogging_it (Autosaved) modified at delete
+I, [2009-09-04T17:57:56.737803 #28877]  INFO -- : Syncing puzzle-firstattempt.rb modified at delete
+I, [2009-09-04T17:57:56.738011 #28877]  INFO -- : Syncing test_puzzle.rb modified at delete
+I, [2009-09-04T17:57:56.738222 #28877]  INFO -- : Syncing test_permutations.rb modified at delete
+I, [2009-09-04T17:57:56.738553 #28877]  INFO -- : Syncing puzzle-v2.rb modified at delete

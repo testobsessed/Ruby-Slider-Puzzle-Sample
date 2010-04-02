@@ -1,0 +1,10 @@
+--- 
+puzzle_spec.rb: 
+- !ruby/object:Devver::Messages::SpecFileRequest 
+  file: puzzle_spec.rb
+solution_spec.rb: 
+- !ruby/object:Devver::Messages::SpecFileRequest 
+  file: solution_spec.rb
+permutations_spec.rb: 
+- !ruby/object:Devver::Messages::SpecFileRequest 
+  file: permutations_spec.rb

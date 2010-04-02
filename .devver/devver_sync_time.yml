@@ -1,0 +1,18 @@
+--- 2009-09-04 17:57:56.739031 -07:00
+
+--- 
+.devver/devver_opts.yml: 2009-09-04 17:57:32 -07:00
+lib/tasks/devver.rake: 2009-09-04 17:57:42 -07:00
+puzzle_spec.rb: 2009-09-04 17:46:52 -07:00
+puzzle.rb: 2009-09-04 17:47:49 -07:00
+lib: 2009-09-04 17:57:42 -07:00
+.devver/hooks: 2009-09-04 17:57:32 -07:00
+solution_spec.rb: 2009-09-04 17:54:40 -07:00
+lib/tasks: 2009-09-04 17:57:42 -07:00
+.devver/hooks/install_dependencies: 2009-09-04 17:57:32 -07:00
+.devver/hooks/prepare_database: 2009-09-04 17:57:32 -07:00
+rakefile: 2009-09-04 17:55:58 -07:00
+.devver/devver_opts.yml.bak: 2009-09-04 17:57:32 -07:00
+.devver: 2009-09-04 17:57:32 -07:00
+permutations.rb: 2009-09-04 13:31:34 -07:00
+permutations_spec.rb: 2009-09-04 13:30:39 -07:00
